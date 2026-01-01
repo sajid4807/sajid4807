@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/sajid4807/github-readme-streak-stats" title="Go to Source">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Go to Source">
     <img width="390" src="https://streak-stats.demolab.com/?user=sajid4807&theme=react&border=61dafb&hide_border=true" alt="sajid4807" />
   </a>
 
