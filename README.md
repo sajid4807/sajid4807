@@ -2,8 +2,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: TypeScript, JavaScript
-- **Frameworks/Libraries**: React, React Native, Next.js, GraphQL, tRPC
-- **UI Libraries**: Tailwind CSS, shadcn/ui, radix-ui
-- **Build Tools**: Webpack, Vite, TurboRepo
-- **Serverless**: Cloudflare Workers, Deno Deploy
+- **Languages**: JavaScript
+- **Frameworks/Libraries**: React, Next.js
+- **UI Libraries**: Tailwind CSS
+- **Build Tools**: Vite
