@@ -47,4 +47,11 @@
 
 <h2>🛠️ Skills</h2>
 
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
+<p>Frontend</p>
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p> <br>
+
+<p>Backend</p>
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /> </p> <br>
+
+<p>Tools & Platforms</p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> </p>
