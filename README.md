@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30">
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>⚡ Stats ⚡</h2>
 <br>
 
 <div align="center">
