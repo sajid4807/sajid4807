@@ -1,17 +1,7 @@
 <!-- Banner Image -->
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/43f5dc52-da1d-4915-98ea-9ea44bf37adf" />
 
-<!-- Profile Picture -->
-<p align="center">
-  <img width="150" alt="Profile Picture" src="https://github.com/sajid4807.png" style="border-radius:50%;" />
-</p>
 
-# Md. Sajid Hossen
-**Frontend Web Developer**
-
-📍 Location: Dhaka, Bangladesh  
-✉️ Email: mdsajidhossen4807@gmail.com <br>
-📱 Contact: +880 1610230949
 
 ---
 
@@ -84,4 +74,9 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 </a>
 
 </div>
+
+
+📍 Location: Dhaka, Bangladesh  
+✉️ Email: mdsajidhossen4807@gmail.com <br>
+📱 Contact: +880 1610230949
 
