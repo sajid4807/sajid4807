@@ -67,5 +67,4 @@
     <img src="https://skillicons.dev/icons?i=twitter" height="40" /> 
   </a> 
     <a href="https://www.facebook.com/md.sajid.516286#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="40" />  </a>
-</p>
+<img src="https://img.icons8.com/ios-filled/40/facebook.png" alt="Facebook" /></p>
