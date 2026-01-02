@@ -37,3 +37,10 @@
   I specialize in React.js, Tailwind CSS, and modern JavaScript, with hands-on experience in full-stack projects.
   I enjoy turning ideas into real-world products and continuously learning new technologies to improve my skills.
 </p>
+
+<h2>🔭 Current Activities</h2>
+
+• Exploring Next.js and modern React patterns
+• Working on a travle website with responsive UI
+• Improving UI/UX using Tailwind CSS & DaisyUI
+• Building real-world projects to strengthen full-stack skills
