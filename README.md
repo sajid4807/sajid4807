@@ -31,10 +31,9 @@
 </div>
 
 <h2>About Me</h2>
-<br>
 
 <p>
-  I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building clean, responsive, and user-friendly web applications. <br>
-  I specialize in React.js, Tailwind CSS, and modern JavaScript, with hands-on experience in full-stack projects.<br>
+  I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building clean, responsive, and user-friendly web applications.
+  I specialize in React.js, Tailwind CSS, and modern JavaScript, with hands-on experience in full-stack projects.
   I enjoy turning ideas into real-world products and continuously learning new technologies to improve my skills.
 </p>
