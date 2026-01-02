@@ -75,8 +75,8 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 
 </div>
 
-<h2>Location</h2>
-📍Chattogram, Bangladesh  
+<h2>📍 Location & Contact</h2>
+📍Chattogram, Bangladesh  <br>
 ✉️ mdsajidhossen4807@gmail.com <br>
 📱 +880 1610230949
 
