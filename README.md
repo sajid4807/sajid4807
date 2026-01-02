@@ -10,7 +10,7 @@
 **Frontend Web Developer**
 
 📍 Location: Dhaka, Bangladesh  
-✉️ Email: mdsajidhossen4807@gmail.com 
+✉️ Email: mdsajidhossen4807@gmail.com <br>
 📱 Contact: +880 1610230949
 
 ---
@@ -22,7 +22,7 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 
 ## 🔭 Current Activities
 - Exploring Next.js and modern React patterns  
-- Working on a tourism website with responsive UI  
+- Working on a travelling website with responsive UI  
 - Improving UI/UX using Tailwind CSS & DaisyUI  
 - Building real-world projects to strengthen full-stack skills  
 
@@ -84,11 +84,4 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 </a>
 
 </div>
-
----
-
-## 📌 Pinned Repositories
-- [Project 1](https://github.com/sajid4807/project1) - Description of project 1  
-- [Project 2](https://github.com/sajid4807/project2) - Description of project 2  
-- [Project 3](https://github.com/sajid4807/project3) - Description of project 3  
 
