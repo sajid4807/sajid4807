@@ -58,13 +58,22 @@
 <br>
 
 <div align="center">
+
+  <!-- GitHub Streak -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Go to Source">
-    <img width="390" src="https://streak-stats.demolab.com/?user=sajid4807&theme=react&border=61dafb&hide_border=true" alt="sajid4807" />
+    <img width="300" src="https://streak-stats.demolab.com/?user=sajid4807&theme=react&border=61dafb&hide_border=true" alt="sajid4807 Streak" />
   </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
+  <!-- GitHub Contribution Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="sajid4807 Stats" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid4807&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="sajid4807 Top Languages" />
+  </a>
 
 </div>
+
 
