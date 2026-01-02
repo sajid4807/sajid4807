@@ -40,7 +40,7 @@
 
 <h2>🔭 Current Activities</h2>
 
-• Exploring Next.js and modern React patterns
-• Working on a travle website with responsive UI
-• Improving UI/UX using Tailwind CSS & DaisyUI
+• Exploring Next.js and modern React patterns <br>
+• Working on a travle website with responsive UI <br>
+• Improving UI/UX using Tailwind CSS & DaisyUI <br>
 • Building real-world projects to strengthen full-stack skills
