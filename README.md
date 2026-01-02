@@ -16,20 +16,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30">
 </div>
 
-<h2>⚡ Stats ⚡</h2>
-<br>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Go to Source">
-    <img width="390" src="https://streak-stats.demolab.com/?user=sajid4807&theme=react&border=61dafb&hide_border=true" alt="sajid4807" />
-  </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
-
-</div>
-
 <h2>About Me</h2>
 
 <p>
@@ -68,15 +54,17 @@
   </a> 
 </p>
 
+<h2>⚡ Stats ⚡</h2>
+<br>
+
 <div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="Go to Source">
+    <img width="390" src="https://streak-stats.demolab.com/?user=sajid4807&theme=react&border=61dafb&hide_border=true" alt="sajid4807" />
+  </a>
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&hide_border=true" />
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid4807&layout=compact&theme=react&hide_border=true" />
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid4807&theme=react&hide_border=true)
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
 
 </div>
+
