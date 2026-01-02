@@ -75,8 +75,8 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 
 </div>
 
-
-📍 Location: Dhaka, Bangladesh  
-✉️ Email: mdsajidhossen4807@gmail.com <br>
-📱 Contact: +880 1610230949
+<h2>Location</h2>
+📍Chattogram, Bangladesh  
+✉️ mdsajidhossen4807@gmail.com <br>
+📱 +880 1610230949
 
