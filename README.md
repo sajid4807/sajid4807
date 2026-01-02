@@ -66,5 +66,3 @@
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=twitter" height="40" /> 
   </a> 
-    <a href="https://www.facebook.com/md.sajid.516286#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" />
