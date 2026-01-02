@@ -44,3 +44,7 @@
 • Working on a travle website with responsive UI <br>
 • Improving UI/UX using Tailwind CSS & DaisyUI <br>
 • Building real-world projects to strengthen full-stack skills
+
+<h2>🛠️ Skills</h2>
+
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> </p>
