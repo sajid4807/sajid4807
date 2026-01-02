@@ -53,3 +53,17 @@
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /> </p>
 <p>Tools & Platforms</p>
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> </p>
+
+<h2>🌐 Connect With Me</h2>
+
+<p align="left"> 
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> 
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" /> 
+  </a> 
+</p>
