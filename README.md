@@ -66,3 +66,17 @@
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=twitter" height="40" /> 
   </a> 
+</p>
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&hide_border=true" />
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid4807&layout=compact&theme=react&hide_border=true" />
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sajid4807&theme=react&hide_border=true)
+
+</div>
