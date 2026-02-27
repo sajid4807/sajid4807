@@ -1,6 +1,5 @@
 <!-- Banner Image -->
 <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/43f5dc52-da1d-4915-98ea-9ea44bf37adf" />
- <img src="https://raw.githubusercontent.com/sajid4807/sajid4807/main/banner.png" alt="Sajid Hossen Banner" width="100%" />
 
 
 
@@ -66,6 +65,8 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
   <img width="300" src="https://streak-stats.demolab.com/?user=sajid4807&theme=react&border=61dafb&hide_border=true" alt="sajid4807 Streak" />
 </a>
 
+</div>
+
 <!-- GitHub Contribution Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img width="300" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="sajid4807 Stats" />
@@ -76,7 +77,7 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid4807&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="sajid4807 Top Languages" />
 </a>
 
-</div>
+
 
 ---
 
