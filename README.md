@@ -68,14 +68,14 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 </div>
 
 <!-- GitHub Contribution Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img width="300" src="https://github-readme-stats.vercel.app/api?username=sajid4807&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="sajid4807 Stats" />
-</a>
+</a> -->
 
 <!-- Top Languages -->
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid4807&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="sajid4807 Top Languages" />
-</a>
+</a> -->
 
 
 
