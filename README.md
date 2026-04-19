@@ -13,36 +13,6 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 ---
 
 
-
-<table style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">
-  <tr>
-    <td>
-      <strong style="font-size:16px; color:#000;">Md Sajid Hossen</strong><br/>
-      <span style="color:#555;">MERN Stack Developer</span><br/><br/>
-
-
-  📧 <a href="mailto:mdsajidhossen4807@gmail.com" style="color:#1a73e8; text-decoration:none;">
-  mdsajidhossen4807@gmail.com</a><br/>
-
-  📞 <a href="tel:+8801610230949" style="color:#1a73e8; text-decoration:none;">
-  +8801610230949</a><br/>
-
-  🌐 <a href="https://sajid-hossen-77.vercel.app/" target="_blank" style="color:#1a73e8; text-decoration:none;">
-  Portfolio</a> |
-
-  💻 <a href="https://github.com/sajid4807" target="_blank" style="color:#1a73e8; text-decoration:none;">
-  GitHub</a> |
-
-  🔗 <a href="#" target="_blank" style="color:#1a73e8; text-decoration:none;">
-  LinkedIn</a><br/><br/>
-
-  <span style="color:#777;">📍 Chattogram, Bangladesh</span>
-</td>
-
-  </tr>
-</table>
-
-
 ## 🔭 Current Activities
 - Exploring Next.js and modern React patterns  
 - Working on a travelling website with responsive UI  
