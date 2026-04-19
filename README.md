@@ -13,6 +13,71 @@ I’m Md. Sajid Hossen, a passionate Frontend Web Developer focused on building 
 ---
 
 
+<table style="font-family: Arial, sans-serif; border-collapse: collapse;">
+  <tr>
+    <!-- Left Side (Name & Role) -->
+    <td style="padding-right: 15px; border-right: 2px solid #e0e0e0;">
+      <strong style="font-size:18px; color:#111;">Md Sajid Hossen</strong><br/>
+      <span style="color:#666; font-size:14px;">MERN Stack Developer</span>
+    </td>
+
+
+<!-- Right Side (Contact Info) -->
+<td style="padding-left: 15px; font-size:13px; color:#333;">
+  
+  <!-- Email -->
+  <div style="margin-bottom:6px;">
+    <img src="https://img.icons8.com/ios-filled/16/1a73e8/new-post.png" style="vertical-align:middle;"/>
+    <a href="mailto:mdsajidhossen4807@gmail.com" style="text-decoration:none; color:#1a73e8;">
+      mdsajidhossen4807@gmail.com
+    </a>
+  </div>
+
+  <!-- Phone -->
+  <div style="margin-bottom:6px;">
+    <img src="https://img.icons8.com/ios-filled/16/1a73e8/phone.png" style="vertical-align:middle;"/>
+    <a href="tel:+8801610230949" style="text-decoration:none; color:#1a73e8;">
+      +8801610230949
+    </a>
+  </div>
+
+  <!-- Portfolio -->
+  <div style="margin-bottom:6px;">
+    <img src="https://img.icons8.com/ios-filled/16/1a73e8/domain.png" style="vertical-align:middle;"/>
+    <a href="https://sajid-hossen-77.vercel.app/" target="_blank" style="text-decoration:none; color:#1a73e8;">
+      Portfolio Website
+    </a>
+  </div>
+
+  <!-- GitHub -->
+  <div style="margin-bottom:6px;">
+    <img src="https://img.icons8.com/ios-filled/16/1a73e8/github.png" style="vertical-align:middle;"/>
+    <a href="https://github.com/sajid4807" target="_blank" style="text-decoration:none; color:#1a73e8;">
+      GitHub Profile
+    </a>
+  </div>
+
+  <!-- LinkedIn -->
+  <div style="margin-bottom:6px;">
+    <img src="https://img.icons8.com/ios-filled/16/1a73e8/linkedin.png" style="vertical-align:middle;"/>
+    <a href="#" target="_blank" style="text-decoration:none; color:#1a73e8;">
+      LinkedIn Profile
+    </a>
+  </div>
+
+  <!-- Location -->
+  <div style="margin-top:8px; color:#777;">
+    <img src="https://img.icons8.com/ios-filled/16/999999/marker.png" style="vertical-align:middle;"/>
+    Chattogram, Bangladesh
+  </div>
+
+</td>
+
+  </tr>
+</table>
+
+
+
 ## 🔭 Current Activities
 - Exploring Next.js and modern React patterns  
 - Working on a travelling website with responsive UI  
